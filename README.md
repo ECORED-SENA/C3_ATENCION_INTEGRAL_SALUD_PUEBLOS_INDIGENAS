@@ -1,8 +1,8 @@
 # **sena-base-2021 v5.1.0**
 
-## **https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/**
+## **https://ecored-sena.github.io/C3_ATENCION_INTEGRAL_SALUD_PUEBLOS_INDIGENAS/**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/C3_ATENCION_INTEGRAL_SALUD_PUEBLOS_INDIGENAS/](https://ecored-sena.github.io/C3_ATENCION_INTEGRAL_SALUD_PUEBLOS_INDIGENAS/)
 
 #
 
