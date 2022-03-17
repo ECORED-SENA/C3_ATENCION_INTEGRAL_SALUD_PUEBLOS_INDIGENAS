@@ -12,7 +12,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.cajon.color-acento-botones(data-aos="fade-left") 
       .col-lg-7        
-        p.mb-0.ps-3 De ahí que la implementación de un sistema acorde con los postulados de un Estado social de derecho deba adoptar el concepto de acción sin daño, y consecuencialmente extender los alcances de la noción clásica de planeación que se ha propuesto y desarrollado en los procedimientos contractuales emprendidos por las entidades públicas. Es indispensable señalar que, en Colombia, esta iniciativa no solo debe dirigirse a los grupos sociales afectados por el conflicto armado, sino que también tiene que responder a todos aquellos sectores que han sido marginados o se han visto afectados por la pobreza, la discriminación y la segregación social (Duque, 2016, p. 6).
+        p.mb-0.ps-3 De ahí que la implementación de un sistema acorde con los postulados de un Estado social de derecho deba adoptar el concepto de acción sin daño, y consecuencialmente extender los alcances de la noción clásica de planeación que se ha propuesto y desarrollado en los procedimientos contractuales emprendidos por las entidades públicas. Es indispensable señalar que, en Colombia, esta iniciativa no solo debe dirigirse a los grupos sociales afectados por el conflicto armado, sino que también tiene que responder a todos aquellos sectores que han sido marginados o se han visto afectados por la pobreza, la discriminación y la segregación social. (Duque, 2016, p. 6).
       .col-lg-5.p-0
         img(data-aos="zoom-in")(src='@/assets/curso/temas/img30.jpg', alt='')    
     Separador 

@@ -4,16 +4,15 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero
-        span 3
-      h1 Apropiaciones y enajenaciones
-
+        span 5
+      h1 Dinámica sistema de salud tradicional
     .bg-img-3
       .row.justify-content-center.align-items-center
         .col-lg-5
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img35.png', alt='')
         .col-lg-7
           .cajon-b.color-secundario.p-3        
-            p(data-aos="fade-down") Dada la gran variedad de culturas indígenas en Colombiano existe uno, sino varios sistemas tradicionales de medicina indígena; no obstante, todos los sistemas tradicionales parten de una concepción integral de la salud y la enfermedad, en donde la enfermedad es un desequilibrio y desarmonía entre el mundo material y el mundo espiritual. Por ejemplo, para los uitoto del Amazonas, la salud es una especie de estado de equilibrio entre el cuerpo y la mente, los tanimuka conciben el cuerpo y la energía vital como dos entidades diferentes y de su armonía depende el estado de salud.            
+            p(data-aos="fade-down") Dada la gran variedad de culturas indígenas en Colombia no existe uno, sino varios sistemas tradicionales de medicina indígena; no obstante, todos los sistemas tradicionales parten de una concepción integral de la salud y la enfermedad, en donde la enfermedad es un desequilibrio y desarmonía entre el mundo material y el mundo espiritual. Por ejemplo, para los uitoto del Amazonas, la salud es una especie de estado de equilibrio entre el cuerpo y la mente, los tanimuka conciben el cuerpo y la energía vital como dos entidades diferentes y de su armonía depende el estado de salud.            
           p(data-aos="fade-down") Si se respetan las restricciones alimenticias, sexuales prescritas por el chamán, si se respetan y siguen los rituales, la persona puede proteger su salud y la de su familia, los ritos restituyen el equilibrio del mundo, la salud se mantiene en el conocimiento y la armonía con el territorio. Las comunidades que han perdido el conocimiento de su territorio y en donde se ha alterado el equilibrio ambiental, sufren de desnutrición, lo que no sucede con comunidades indígenas que se encuentran más aisladas, que conservan un buen estado nutricional.
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -26,7 +25,7 @@
         .bloque-texto-b.color-acento-contenido.p-4.mt-5
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h5 Además de lo anterior, hay también saberes médicos que son exclusivos de las mujeres, en el uso que hacen las mujeres de las plantas para curar dolencias que solo afectan a las mujeres y a sus hijos, el control de la natalidad, tienen efectivos métodos para acelerar los partos, conocen las plantas que les ayudan a la lactancia y en las irregularidades de la menstruación, curan enfermedades en el sistema reproductor y que se presentan en los niños #[br]
+            h5 Además de lo anterior, hay también saberes médicos que son exclusivos de las mujeres, en el uso que hacen las mujeres de las plantas para curar dolencias que solo afectan a las mujeres y a sus hijos, el control de la natalidad, tienen efectivos métodos para acelerar los partos, conocen las plantas que les ayudan a la lactancia y en las irregularidades de la menstruación, curan enfermedades en el sistema reproductor y que se presentan en los niños. #[br]
             p.mb-0 (Departamento Nacional de Planeación, DNP, 2004).
             i.fas.fa-quote-right     
 
@@ -109,7 +108,7 @@
                 td Tuana -chamán médico-                        
 
 
-    p(data-aos="fade-down").mt-5 En la siguiente tabla se presentan las maneras de llamar al médico tradicional, en las diferentes culturas: 
+    p(data-aos="fade-down").mt-5 Ahora, la siguiente tabla muestra una síntesis de los conocimientos y prácticas más frecuentes asociadas a la salud (Departamento Nacional de Planeación, DNP, 2004): 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-10(data-aos="fade-down")
@@ -267,7 +266,7 @@
 
     .row.justify-content-center.align-items-center.mt-5.cajon.color-acento-botones(data-aos="fade-left") 
       .col-lg-7        
-        p.mb-0.ps-3 El chamán amazónico suele ser denominado “hombre-jaguar”. Se utiliza también una denominación genérica que suele ser precisa: “dueño de maloka”. Es común que se le llame taita o payé –Vaupés–. El chamán, principal especialista del conocimiento tradicional, para acceder al pensamiento como tradición –a la que debe conectarse– usa plantas maestras como la Banasteriorsis caapi el principal bejuco del yagé, ambíl, una resina preparada a partir del tabaco y hojas de coca o el ayuno prolongado. El yagé es utilizado por 72 pueblos amazónicos (Luna, 1986) en su mayoría, del occidente de la cuenca. Este personaje juega un importante papel social ya que sostiene la unidad social y espiritual de la comunidad a la que pertenece (Departamento Nacional de Planeación, DNP, 2004).
+        p.mb-0.ps-3 El chamán amazónico suele ser denominado “hombre-jaguar”. Se utiliza también una denominación genérica que suele ser precisa: “dueño de maloka”. Es común que se le llame taita o payé –Vaupés–. El chamán, principal especialista del conocimiento tradicional, para acceder al pensamiento como tradición –a la que debe conectarse– usa plantas maestras como la #[i Banasteriorsis caapi] el principal bejuco del yagé, ambíl, una resina preparada a partir del tabaco y hojas de coca o el ayuno prolongado. El yagé es utilizado por 72 pueblos amazónicos (Luna, 1986) en su mayoría, del occidente de la cuenca. Este personaje juega un importante papel social ya que sostiene la unidad social y espiritual de la comunidad a la que pertenece (Departamento Nacional de Planeación, DNP, 2004).
       .col-lg-5.p-0
         img(data-aos="zoom-in")(src='@/assets/curso/temas/img41.jpg', alt='')   
 

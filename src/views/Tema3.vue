@@ -6,16 +6,16 @@
       .titulo-principal__numero
         span 3
       h1 Apropiaciones y enajenaciones
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-end
       .col-lg-7
         .row.justify-content-center.align-items-center
-          .col-lg-10
+          .col-lg-12
             .col-color3(data-aos="slide-down")
               .bloque-texto-b.p-4(data-aos="fade-down")
                 .bloque-texto-b__texto
                   i.color-green.fas.fa-quote-left
-                  p Finalmente, la colonización sobre los territorios indígenas, la colonización es un fenómeno constante a todo lo largo de la historia de los pueblos indígenas. El Caribe y el centro de los Andes fueron las primeras regiones que sucumbieron al proceso colonizador, luego vendría la ocupación de las tierras bajas asociada a la apertura de caminos y vías de comunicación y a la explotación de recursos naturales. La Amazonia permaneció relativamente marginada de la vida del resto de la Nación hasta la primera mitad del siglo XX. En la actualidad los resguardos indígenas son un freno a los procesos de colonización. No obstante, persiste la ocupación forzosa de territorios indígenas para la instalación de cultivos ilícitos, la explotación de recursos del bosque y la minería ilegal. #[br]
-                  p.mb-0 #[b (Departamento Nacional de Planeación, DNP, 2004).]
+                  p El fortalecimiento de la cultura propia y la orientación y autogestión por parte de los pueblos indígenas, presentan soluciones propias e insustituibles que solamente se encuentran en el desarrollo de su autonomía, con reales posibilidades de autodeterminación, real poder político de sus organizaciones y autogobierno, con la capacidad de decidir y con la capacidad de llevar a cabo sus proyectos de desarrollo y el fortalecimiento de su cultura.#[br]
+                  p.mb-0 #[b Refiere Bonfil (1978)]
                   i.color-green.fas.fa-quote-right 
 
             .bloque-texto-b.color-acento-botones.p-4.mt-3

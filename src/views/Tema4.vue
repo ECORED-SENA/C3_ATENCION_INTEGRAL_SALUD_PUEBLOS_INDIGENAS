@@ -9,13 +9,13 @@
 
     .cajon-b.color-primario.p-3        
       p(data-aos="fade-down") Los pueblos indígenas han luchado durante muchos años por el reconocimiento de sus derechos y ello ha generado una afectación de la pervivencia y supervivencia. A continuación, se podrán conocer algunas cifras de los pueblos indígenas: 
+    .bg-img-3.mt-5
+      .row.justify-content-start.align-items-center(data-aos="fade-left")
+        .col-lg-5.p-0
+          h5.mb-0.ps-4.title-color.p-3 Afectación de la pervivencia y supervivencia
+        .col-1.p-0.d-none.d-lg-block  
+          img.img-t.mleft(src='@/assets/curso/temas/icon.svg',alt='') 
 
-    .row.justify-content-start.align-items-center.mt-5(data-aos="fade-left")
-      .col-lg-5.p-0
-        h5.mb-0.ps-4.title-color.p-3 Afectación de la pervivencia y supervivencia
-      .col-1.p-0.d-none.d-lg-block  
-        img.img-t.mleft(src='@/assets/curso/temas/icon.svg',alt='') 
-    .bg-img-3
       img.img-a.img-t.pt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img33.svg', alt='') 
 
     .row.justify-content-center.align-items-center.mt-5
