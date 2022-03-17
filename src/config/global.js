@@ -277,17 +277,17 @@ export default {
       },
       {
         nombre: 'Cesar Jaramillo',
-        cargo: 'Experto Temático',
-        centro: 'Distrito Capital - Ministerio de Salud y Protección Social',
+        cargo: 'Experto temático',
+        centro: 'Ministerio de Salud y Protección Social - Distrito Capital',
       },
       {
         nombre: 'Paula Andrea Taborda Ortiz',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional distrito capital',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
+        cargo: 'Revisor metodológico y pedagógico',
         centro: 'Centro de Diseño y Metrología - Regional distrito capital',
       },
       {
