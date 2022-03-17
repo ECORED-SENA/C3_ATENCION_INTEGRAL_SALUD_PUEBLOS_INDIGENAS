@@ -119,9 +119,17 @@
                   h4.mb-1 Video - Mecanismos de interacción y comunicación
                   p.text-small.mb-0 Ingresa en el video y conoce sobre los diferentes mecanismos de interacción y comunicación que se pueden evidenciar en el diálogo con los pueblos indígenas. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=TvFaWp-x-YA" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(@click="modal1 = true")
                     span Ver video
-                    i.fas.fa-play-circle           
+                    i.fas.fa-play-circle   
+                    .indicador--click(v-if="mostrarIndicador")                
+
+                  ModalA(:abrir-modal.sync="modal1")
+                    .row.align-items-center
+                      .col-12
+                        figure(data-aos="fade-left")
+                          .video
+                            iframe(width="560" height="315" src="https://www.youtube.com/embed/TvFaWp-x-YA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                 
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img11.png', alt='') 
 
@@ -376,7 +384,7 @@ export default {
   name: 'Tema1',
   components: {},
   data: () => ({
-    // variables de vue
+    modal1: false,
   }),
   mounted() {
     this.$nextTick(() => {
