@@ -172,14 +172,14 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Los pueblos indígenas del Amazonas")
         .row.justify-content-start.align-items-center
           .col-11
-            h5 Los pueblos indígenas del Amazonas: 
+            h5 Los pueblos indígenas del Amazonas 
             p Viven en organizaciones jerárquicas, repartidas en linajes patrilineales de no emparentados entre sí, cada grupo con sus linajes o clanes vivían, o aún algunas comunidades viven así, en una o más malokas, viviendas colectivas y espacios rituales donde ejerce dominio el dueño de maloka, hombre-jaguar o chamán del grupo, llamado también payé o curaca, depositario de la tradición y los rituales.
             img.mt-5.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img16.png', alt='') 
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="Rituales")
         .row.justify-content-start.align-items-center
           .col-11
-            h5 Rituales:
+            h5 Rituales
             p En los rituales se utilizan plantas sagradas, algunas se consumen como el tabaco, que tiene una compleja preparación y se consume en forma líquida o en resina –ambil–; de la coca se consumen las hojas luego de ser tostadas, maceradas y pulverizadas. Para rituales especiales consumen el yagé – #[i Banisteriopsis sp–]. Los siona y kofán consumen la savia del bejuco yoco – #[i Paullinis yoco], un estimulante. También son utilizados alucinógenos y estimulantes provenientes de las familias #[i Brugmansia] – borrachero– y #[i Brunfelsia]. Para muchos de estos pueblos el ritual del yuruparí recuerda y revive los elementos fundamentales de su cosmovisión (Departamento Nacional de Planeación, DNP, 2004).
 
             img.mt-5.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img17.png', alt='')           
@@ -187,7 +187,7 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Los pueblos indígenas de los nukak y otras sociedades amazónicas")
         .row.justify-content-start.align-items-center
           .col-11
-            h5 Los pueblos indígenas de los nukak y otras sociedades amazónicas: 
+            h5 Los pueblos indígenas de los nukak y otras sociedades amazónicas 
             p La estructura organizativa se encuentra mayormente ligada al sistema de parentesco. En este caso particular se forman grupos locales de acuerdo con una filiación patrilineal, de este modo se elige un líder por grupo, cada clan mantiene una relación espiritual estrecha con un animal y un territorio desde donde se desarrolla una cosmogonía particular.
 
             img.mt-5.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img18.png', alt='')         
@@ -195,7 +195,7 @@
       .tarjeta.color-acento-botones--borde.p-4(titulo="Los pueblos del sur y centro de los Andes")
         .row.justify-content-start.align-items-center
           .col-11
-            h5 Los pueblos del sur y centro de los Andes: 
+            h5 Los pueblos del sur y centro de los Andes 
             p Viven en familias nucleares que constituyen a su vez la principal unidad económica. El trabajo comunitario en mingas es un elemento importante en la vida del grupo. Hay mingas que se hacen con fines económicos para la preparación de los suelos, la siembra o recolección, y las hay programadas por los cabildos para el arreglo de caminos, limpieza de cementerios, entre otras. El cabildo gobierna la vida de la comunidad en especial, en lo relacionado con el manejo de las tierras, el cuidado de los bienes públicos y las disputas internas. El cabildo está regido por un gobernador al que le ayudan un secretario, un tesorero y algunos alguaciles. Los miembros del cabildo en la mayoría de las comunidades del sur llevan como distintivo el uso de un bastón, símbolo de su poder (Departamento Nacional de Planeación, DNP, 2004).
 
             img.mt-5.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img19.png', alt='')                        
