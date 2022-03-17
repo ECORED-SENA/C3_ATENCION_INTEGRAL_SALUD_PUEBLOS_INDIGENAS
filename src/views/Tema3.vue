@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Apropiaciones y enajenaciones
-    .row.justify-content-center.align-items-end
+    .row.justify-content-center.align-items-center
       .col-lg-7
         .row.justify-content-center.align-items-center
           .col-lg-12
@@ -17,15 +17,6 @@
                   p El fortalecimiento de la cultura propia y la orientación y autogestión por parte de los pueblos indígenas, presentan soluciones propias e insustituibles que solamente se encuentran en el desarrollo de su autonomía, con reales posibilidades de autodeterminación, real poder político de sus organizaciones y autogobierno, con la capacidad de decidir y con la capacidad de llevar a cabo sus proyectos de desarrollo y el fortalecimiento de su cultura.#[br]
                   p.mb-0 #[b Refiere Bonfil (1978)]
                   i.color-green.fas.fa-quote-right 
-
-            .bloque-texto-b.color-acento-botones.p-4.mt-3
-              .bloque-texto-b__texto
-                i.color-green.fas.fa-quote-left
-                h5 Que se debe diferenciar los conceptos de cultura autónoma y cultura apropiada, que corresponden a la cultura propia, en contraposición a los conceptos de cultura enajenada y de cultura impuesta, que son el resultado de la opresión y la violencia cultural.#[br]
-                p.mb-0  Bonfil (1978)
-                i.color-green.fas.fa-quote-right   
-
-            p(data-aos="fade-down").mt-3 Plantea que se deben fortalecer las formas de organización propias y recuperar lo enajenado (las tierras, el idioma, las tradiciones, el conocimiento ancestral y de su historia, etc.), lo apropiado es los adoptado y adaptado por voluntad, el enriquecimiento de la cultura autónoma, por innovación y etnodesarrollo en un intercambio entre culturas, no lo impuesto por una cultura dominante.
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img31.svg', alt='') 
 
