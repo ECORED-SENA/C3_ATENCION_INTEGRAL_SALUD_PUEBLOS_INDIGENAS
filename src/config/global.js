@@ -104,7 +104,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -194,11 +194,11 @@ export default {
     },
     {
       referencia:
-        'Ossa, C. A. (s.f.). El proceso de colonización en la amazonia colombiana y su incidencia sobre el uso de los recursos naturales. Icanh.',
+        'Ossa, C. A. (s.f.). El proceso de colonización en la Amazonía colombiana y su incidencia sobre el uso de los recursos naturales. Icanh.',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2018). Prácticas de cuidado y crianza. Bogotá D.C: Imprenta Nacional.',
+        'Presidencia de la República de Colombia. (2018). Prácticas de cuidado y crianza. Bogotá D.C.: Imprenta Nacional.',
     },
     {
       referencia:

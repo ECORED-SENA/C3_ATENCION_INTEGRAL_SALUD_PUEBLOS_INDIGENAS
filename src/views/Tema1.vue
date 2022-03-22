@@ -29,7 +29,7 @@
       .col-lg-5.p-0
         img(data-aos="zoom-in")(src='@/assets/curso/temas/img3.png', alt='')    
       .col-lg-7
-        p(data-aos="fade-down") En su mayoría la forma de vida de los pueblos indígenas en Colombia se desarrolla de manera comunitaria, por lo que las formas de crianza suelen extenderse más allá de lo que se denomina familia nuclear; es decir, madre, padre e hijos. Y va estrechamente relacionada a las creencias particulares y al sistema de parentesco existente dentro de cada pueblo. Por sistema de parentesco se hace referencia a las formas en la que se determinan los grupos familiares y las relaciones entre los miembros de estos.
+        p(data-aos="fade-down") En su mayoría la forma de vida de los pueblos indígenas en Colombia se desarrolla de manera comunitaria, por lo que las formas de crianza suelen extenderse más allá de lo que se denomina familia nuclear; es decir, madre, padre e hijos. Y va estrechamente relacionado con las creencias particulares y al sistema de parentesco existente dentro de cada pueblo. Por sistema de parentesco se hace referencia a las formas en la que se determinan los grupos familiares y las relaciones entre los miembros de estos.
         p(data-aos="fade-down").mb-0 De acuerdo con esto, se establecen distintas relaciones que son evidenciadas en las pautas de crianza de los niños y las relaciones entre miembros de la familia. Por ejemplo, en la comunidad wayuu el clan o filiación de la familia se hereda por vía materna, a esto se le llama matrilineal. Sin embargo, la figura de representación del grupo se encuentra en el tío paterno. Por otro lado, como lo es en el caso de los nukak esta filiación se hereda de manera patrilineal; es decir, por vía de consanguinidad paterna.       
 
     .row.justify-content-center.align-items-center.mt-5
@@ -140,7 +140,7 @@
       .row.justify-content-center.align-items-center.pb-5
         .col-lg-8
           p(data-aos="fade-down") El bilingüismo dentro de estas comunidades ha ido en aumento debido a que con el tiempo se han implementado planes de conservación de la lengua en distintos territorios, a la vez que una gran parte de los niños o de los adultos y jóvenes hacen uso del español al verse en contacto constante con el resto de la población hispanohablante del país.
-          p(data-aos="fade-down") Debido a esto dentro de las tasas de  bilingüismo se hace necesario tomar en cuenta factores como la edad y el género, ya que en el caso de las mujeres que suelen permanecer más dentro de los resguardos o esquemas familiares tienden a mostrar tasas más bajas de bilingüismo al igual que los adultos mayores o miembros que por diversos motivos hayan estado más al interior de la comunidad que en interacciones exteriores.     
+          p(data-aos="fade-down") Debido a esto, dentro de las tasas de  bilingüismo se hace necesario tomar en cuenta factores como la edad y el género, ya que en el caso de las mujeres que suelen permanecer más dentro de los resguardos o esquemas familiares tienden a mostrar tasas más bajas de bilingüismo al igual que los adultos mayores o miembros que por diversos motivos hayan estado más al interior de la comunidad que en interacciones exteriores.     
 
           .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5p(data-aos="flip-down")
             .bloque-texto-g__img(
@@ -156,13 +156,13 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.5. Estructuras organizativas
 
-    p(data-aos="fade-down") En su mayoría las comunidades indígenas más grandes del país se organizan en torno a cabildos compuestos por distintos representantes de la comunidad y poseen elementos comunes dentro de sus formas de gobierno como lo es una figura de autoridad religiosa comúnmente conocida como chamán o médico tradicional y una figura que desempeña un rol más político conocida como gobernador indígena. Estas dinámicas varían según el territorio y la tradición.
+    p(data-aos="fade-down") En su mayoría, las comunidades indígenas más grandes del país se organizan en torno a cabildos compuestos por distintos representantes de la comunidad y poseen elementos comunes dentro de sus formas de gobierno, como lo es una figura de autoridad religiosa comúnmente conocida como chamán o médico tradicional y una figura que desempeña un rol más político conocida como gobernador indígena. Estas dinámicas varían según el territorio y la tradición.
     p(data-aos="fade-down") En Colombia, coexisten grupos étnicos organizados en:
 
     .row.justify-content-start.align-items-center.mt-5(data-aos="fade-left")
-      .col-lg-5.p-0
-        h5.mb-0.ps-4.title-color.p-3 Estructuras organizativas de los pueblos indígenas 
-      .col-1.p-0.d-none.d-lg-block  
+      .col-lg-4.title-color.ps-4.p-3.pe-5
+        h5.mb-0.pe-5 Estructuras organizativas de los pueblos indígenas 
+      .col-1.p-0.d-none.d-lg-block.ms-3  
         img.img-t.mleft(src='@/assets/curso/temas/icon.svg',alt='')
 
     img.my-5.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img15.svg', alt='') 
@@ -201,9 +201,9 @@
             img.mt-5.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img19.png', alt='')                        
     .bg-img-3
       .row.justify-content-start.align-items-center.mt-5(data-aos="fade-left")
-        .col-lg-4.p-0
-          h5.mb-0.ps-4.title-color.p-3 Sistemas normativos y derecho interno
-        .col-1.p-0.d-none.d-lg-block  
+        .col-lg-4.title-color.ps-4.p-3.pe-5
+          h5.mb-0.pe-5 Sistemas normativos y derecho interno
+        .col-1.p-0.d-none.d-lg-block.ms-3
           img.img-t.mleft(src='@/assets/curso/temas/icon.svg',alt='')
 
       .row.justify-content-center.align-items-center.pt-5
@@ -285,9 +285,9 @@
     p(data-aos="fade-down") Si es de interés conocer cómo se realiza este proceso, este es el momento, así: 
     .bg-img-3
       .row.justify-content-start.align-items-center.mt-5(data-aos="fade-left")
-        .col-lg-4.p-0
-          h5.mb-0.ps-4.title-color.p-3 El proceso de colonización en América 
-        .col-1.p-0.d-none.d-lg-block  
+        .col-lg-4.title-color.ps-4.p-3.pe-5
+          h5.mb-0.pe-5 El proceso de colonización en América 
+        .col-1.p-0.d-none.d-lg-block.ms-3
           img.img-t.mleft(src='@/assets/curso/temas/icon.svg',alt='')
 
       img.img-a.img-t.pt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img27.svg', alt='')  
@@ -296,7 +296,7 @@
           .bloque-texto-b.p-4(data-aos="fade-down")
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              p En América se dio la explotación de la mano de obra indígena, a través de las encomiendas, como una esclavitud encubierta, posteriormente mediante la figura de la hacienda como la apropiación de sus tierras con trabajos forzados de la población indígena despojada. Más adelante hasta el siglo XXI, continuó el concepto de hacienda con mano de obra indígena cautiva. Los colonos exigían servicios obligatorios a las poblaciones indígenas residentes en las haciendas agrícolas y ganaderas creadas, servidumbre o trabajo forzoso, basado en que el trabajador contrae una deuda con el hacendado imposible de pagar y, en consecuencia, debe quedarse en el lugar trabajando indefinidamente, mientras que la deuda que se traspasa a sus hijas e hijos.  #[br]
+              p En América se dio la explotación de la mano de obra indígena, a través de las encomiendas, como una esclavitud encubierta, posteriormente mediante la figura de la hacienda como la apropiación de sus tierras con trabajos forzados de la población indígena despojada. Más adelante hasta el siglo XXI, continuó el concepto de hacienda con mano de obra indígena cautiva. Los colonos exigían servicios obligatorios a las poblaciones indígenas residentes en las haciendas agrícolas y ganaderas creadas, servidumbre o trabajo forzoso, basado en que el trabajador contrae una deuda con el hacendado imposible de pagar y, en consecuencia, debe quedarse en el lugar trabajando indefinidamente, mientras que la deuda se traspasa a sus hijas e hijos.  #[br]
               p.mb-0 #[b (CEPAL, 2013).]
               i.fas.fa-quote-right     
 
@@ -316,9 +316,9 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img29.svg', alt='')     
       .col-lg-8
         p(data-aos="fade-down") La independencia de las colonias americanas no significó una reivindicación de las comunidades indígenas, las nuevas repúblicas continuaron la opresión, surgió la ideología del “problema indio”, que caracterizó al indígena como un obstáculo al proyecto liberal modernizante del Estado-nación, se continuó con el supuesto de la civilización y evangelización de las comunidades indígenas.
-        p(data-aos="fade-down") A mediados del siglo XX se continuó con el despojo de tierras a las comunidades indígenas en la Orinoquia y Amazonía colombianas. Posteriormente, la explotación de los recursos naturales, minerales e hidrocarburos, la explotación maderera y, más recientemente, el narcotráfico continuaron con el daño a los ecosistemas de los territorios de las comunidades indígenas, y continuo el despojo de sus tierras con la ampliación de la frontera agrícola y con nuevos proyectos de infraestructura.
+        p(data-aos="fade-down") A mediados del siglo XX se continuó con el despojo de tierras a las comunidades indígenas en la Orinoquía y Amazonía colombianas. Posteriormente, la explotación de los recursos naturales, minerales e hidrocarburos, la explotación maderera y, más recientemente, el narcotráfico continuaron con el daño a los ecosistemas de los territorios de las comunidades indígenas, y continuo el despojo de sus tierras con la ampliación de la frontera agrícola y con nuevos proyectos de infraestructura.
 
-        p(data-aos="fade-down") En este caso es posible hacer referencia a uno de los procesos de colonización más recientes del territorio colombiano, el cual corresponde al proceso de colonización de las tierras amazónicas, que comenzó a darse desde los Llanos, hacia San José del Guaviare, y otros departamentos como Nariño y Putumayo. La población del Guaviare por parte de los campesinos, se da por dos vías: el río Guayabero y el Ariari, que confluyen en el río Guaviare, por una parte llegan los colonos armados, y por otra el colono independiente, ambos buscando en estas zonas huir de la violencia y prosperar económicamente, la línea que dividiría a estos dos tipos de colonos se hace cada vez más invisible ya que la cooperación para el provecho de la tierra se hace necesario, a lo cual lo sigue la organización de estos en sindicatos y en 1985 ocurre la primera toma a San José por parte del sindicato de pequeños agricultores.      
+        p(data-aos="fade-down") En este caso es posible hacer referencia a uno de los procesos de colonización más recientes del territorio colombiano, el cual corresponde al proceso de colonización de las tierras amazónicas, que comenzó a darse desde los Llanos, hacia San José del Guaviare, y otros departamentos como Nariño y Putumayo. La población del Guaviare por parte de los campesinos, se da por dos vías: el río Guayabero y el Ariari, que confluyen en el río Guaviare, por una parte, llegan los colonos armados, y por otra el colono independiente, ambos buscando en estas zonas huir de la violencia y prosperar económicamente, la línea que dividiría a estos dos tipos de colonos se hace cada vez más invisible, ya que la cooperación para el provecho de la tierra se hace necesario, a lo cual lo sigue la organización de estos en sindicatos y en 1985 ocurre la primera toma a San José por parte del sindicato de pequeños agricultores.      
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-left")   
       .col-lg-8
@@ -330,9 +330,9 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img29_1.svg', alt='') 
 
     .row.justify-content-start.align-items-center.mt-5(data-aos="fade-left")
-      .col-lg-8.p-0
-        h5.mb-0.ps-4.title-color.p-3 Factores de presión económica, social y política por regiones sobre los pueblos indígenas
-      .col-1.p-0.d-none.d-lg-block  
+      .col-lg-8.title-color.ps-4.p-3.pe-5
+        h5.mb-0.pe-5 Factores de presión económica, social y política por regiones sobre los pueblos indígenas
+      .col-1.p-0.d-none.d-lg-block.ms-3  
         img.img-t.mleft(src='@/assets/curso/temas/icon.svg',alt='') 
 
     .bg-img-3
@@ -373,7 +373,7 @@
         .bloque-texto-b.p-4(data-aos="fade-down")
           .bloque-texto-b__texto
             i.color-green.fas.fa-quote-left
-            p Finalmente, la colonización sobre los territorios indígenas, la colonización es un fenómeno constante a todo lo largo de la historia de los pueblos indígenas. El Caribe y el centro de los Andes fueron las primeras regiones que sucumbieron al proceso colonizador, luego vendría la ocupación de las tierras bajas asociada a la apertura de caminos y vías de comunicación y a la explotación de recursos naturales. La Amazonia permaneció relativamente marginada de la vida del resto de la Nación hasta la primera mitad del siglo XX. En la actualidad los resguardos indígenas son un freno a los procesos de colonización. No obstante, persiste la ocupación forzosa de territorios indígenas para la instalación de cultivos ilícitos, la explotación de recursos del bosque y la minería ilegal. #[br]
+            p Finalmente, la colonización sobre los territorios indígenas, la colonización es un fenómeno constante a todo lo largo de la historia de los pueblos indígenas. El Caribe y el centro de los Andes fueron las primeras regiones que sucumbieron al proceso colonizador, luego vendría la ocupación de las tierras bajas asociada a la apertura de caminos y vías de comunicación y a la explotación de recursos naturales. La Amazonía permaneció relativamente marginada de la vida del resto de la Nación hasta la primera mitad del siglo XX. En la actualidad los resguardos indígenas son un freno a los procesos de colonización. No obstante, persiste la ocupación forzosa de territorios indígenas para la instalación de cultivos ilícitos, la explotación de recursos del bosque y la minería ilegal. #[br]
             p.mb-0 #[b (Departamento Nacional de Planeación, DNP, 2004).]
             i.color-green.fas.fa-quote-right 
     Separador 
