@@ -26,7 +26,7 @@
 
         p(data-aos="fade-down") A causa de lo anterior, se han ido perdiendo costumbres que ya no son posibles debido al sedentarismo y el contacto más reducido con las rutas que manejaban antes y, así mismo, la lengua y sus tradiciones. Aún se consideran un grupo en gran estado de vulnerabilidad y es una muestra de lo que puede suceder tras la intervención en territorios y con grupos poblacionales que aún permanecen aislados. La intervención y el contacto pueden tener un impacto muy serio y es por esto por lo que se hace necesario una planeación y preparación que permitan ejecutar acciones sin daño.
       .col-lg-5      
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img34.svg', alt='') 
+        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img34.png', alt='') 
     Separador 
 
 
